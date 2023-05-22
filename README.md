@@ -6,7 +6,7 @@ I'm a fullstack developer with experience in python and django framework. I have
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-kateCastaño-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kate-casta%C3%B1o-rueda/)](https://www.linkedin.com/in/kate-casta%C3%B1o-rueda/)
+  [![Linkedin Badge](https://img.shields.io/badge/-kateCastaño-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kate-casta%C3%B1o-rueda/)](https://www.linkedin.com/in/kate-casta%C3%B1o-rueda/){:target="_blank"}
 
 </div>
 
